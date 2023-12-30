@@ -1,0 +1,56 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.App-header {
+  background-color: #000;
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+}
+
+
+/* Add more styles for form, buttons, inputs, etc. */
+
+.payment-form {
+  color: #333;
+  max-width: 400px;
+  margin: auto;
+  font-family: 'Arial', sans-serif;
+}
+
+.payment-form input,
+.payment-form button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.payment-form button {
+  background-color: #007aff; /* Apple's blue */
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.token-details {
+  background-color: #f7f7f7;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.transaction-result {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #d1edc1;
+  border-radius: 8px;
+}
+
+/* Add more styles for animations, hover effects, and responsiveness */
